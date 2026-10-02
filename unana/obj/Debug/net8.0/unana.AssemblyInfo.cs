@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+125575be2628eb05315341a1d6e06277192b25cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("unana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
