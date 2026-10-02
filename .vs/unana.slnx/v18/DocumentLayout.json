@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sodal\\OneDrive\\Desktop\\2609-10 BIM-IT\\261002 21\uC77C\uCC28\\unana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0CEB93-9E35-4329-8EFF-EBB47765362C}|unana\\unana.csproj|c:\\users\\sodal\\onedrive\\desktop\\2609-10 bim-it\\261002 21\uC77C\uCC28\\unana\\unana\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0CEB93-9E35-4329-8EFF-EBB47765362C}|unana\\unana.csproj|solutionrelative:unana\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\sodal\\OneDrive\\Desktop\\2609-10 BIM-IT\\261002 21\uC77C\uCC28\\unana\\unana\\Command.cs",
+              "RelativeDocumentMoniker": "unana\\Command.cs",
+              "ToolTip": "C:\\Users\\sodal\\OneDrive\\Desktop\\2609-10 BIM-IT\\261002 21\uC77C\uCC28\\unana\\unana\\Command.cs",
+              "RelativeToolTip": "unana\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:29:02.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
